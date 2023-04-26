@@ -8,4 +8,5 @@ module.exports = {
   publicRuntimeConfig: {
     basePath: config.basePath,
   },
+  distDir: 'out',
 };
